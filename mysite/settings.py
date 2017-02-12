@@ -25,7 +25,7 @@ SECRET_KEY = 'xv)g9^bn24c+_msx^)kc9qnv1dyu^)8_5vaug$8^vvm#^v&o!-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['politadc.pythonanywhere.com']
 
 
 # Application definition
